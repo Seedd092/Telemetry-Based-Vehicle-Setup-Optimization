@@ -4,13 +4,13 @@ Telemetry-based vehicle setup optimization project focused on reducing understee
 
 ---
 
-## 📌 Introduction
+## Introduction
 
 The objective of this project is to optimize a vehicle with evident handling issues by adapting its setup to better suit both track conditions and driving style.
 
 ---
 
-## 🎥 Baseline Performance
+## Baseline Performance
 
 The following analysis illustrates the vehicle’s behavior in two selected corners prior to any setup optimization. These sections were chosen as they clearly highlight the car’s handling limitations.
 
@@ -25,7 +25,7 @@ In both cases, the vehicle demonstrates reduced cornering efficiency, requiring 
 
 ---
 
-## ⚙️ Setup Changes
+## Setup Changes
 
 To address the identified understeer and improve front-end grip, a series of setup adjustments were implemented.
 
@@ -53,7 +53,7 @@ These changes were aimed at improving front-end grip, reducing understeer, and a
 
 ---
 
-## 📊 Comparison (Baseline vs Optimized Setup)
+## Comparison (Baseline vs Optimized Setup)
 
 A comparison was conducted using the same two corners at Circuit de Barcelona-Catalunya.
 
@@ -76,7 +76,7 @@ Corner 2 shows improved efficiency through increased exit speed while maintainin
 
 ---
 
-## 📈 Results
+## Results
 
 Following the implemented setup changes, the Audi R8 V10 demonstrated a measurable improvement in performance.
 
@@ -108,6 +108,6 @@ The optimized setup enabled more efficient use of available grip, resulting in i
 
 ---
 
-## 🚀 Key Takeaway
+## Key Takeaway
 
 Proper setup tuning, combined with telemetry analysis, is essential for maximizing vehicle performance and adapting the car to both track conditions and driving style.
