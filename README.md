@@ -95,7 +95,7 @@ Following the implemented setup changes, the Audi R8 V10 demonstrated a measurab
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates that targeted setup adjustments can significantly improve vehicle handling and performance.
 
