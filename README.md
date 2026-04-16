@@ -76,6 +76,9 @@ Corner 2 shows improved efficiency through increased exit speed while maintainin
 
 ---
 
+### Demo Video - https://youtu.be/KSa9Wp0SgqM
+
+
 ## Results
 
 Following the implemented setup changes, the Audi R8 V10 demonstrated a measurable improvement in performance.
@@ -84,8 +87,6 @@ Following the implemented setup changes, the Audi R8 V10 demonstrated a measurab
   2:10.072 → 2:08.155 (**−1.9 s**)
 
 > Note: The baseline lap included a drift-assisted section, which may have slightly influenced the result.
-
-### Demo Video - https://youtu.be/KSa9Wp0SgqM
 
 ### Summary of Improvements
 
